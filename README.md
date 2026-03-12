@@ -70,7 +70,7 @@
   <tr>
     <td colspan="2" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=abby-ra&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aby-ra&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abby-ra&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
     </td>
   </tr>
   <tr>
