@@ -1,13 +1,21 @@
 <h1 align="center">Hi 👋, I'm Abinaya R</h1>
 <h3 align="center">A passionate Machine Learning Expert</h3>
 
+🎓 Pursuing B.E in CSE
+🚀 Full Stack Developer (React.js, Node.js, Express.js, MySQL, Docker, Kubernetes, AWS)
+🌱 Currently learning AWS Cloud, Docker, Kubernetes
+🔗 To know about me -> padmavathisj.onrender.com
+🔗 All of my projects available at -> GitHub
+👨‍💻 Student Intern in Cloud Computing Laboratory at BIT
+📫 Reach me: padmasj54@gmail.com
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abby-ra&label=Profile%20views&color=0e75b6&style=flat" alt="abby-ra" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abby-ra" alt="abby-ra" /></a> </p>
 
-- 🔭 I’m currently working on LLM Projects.
-
-- 👯 I’m looking to collaborate on **Gen AI**
+- 🔭 I’m currently Learning Gen AI.
 
 - 👨‍💻 All of my projects are available at [github.com/abby-ra](github.com/abby-ra)
 
