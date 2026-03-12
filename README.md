@@ -16,7 +16,7 @@
 </p>
 
 # 🌐 Socials:
-![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white](https://www.linkedin.com/in/abbynaya/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abby%20R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abbynaya/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abbynayaraj@gmail.com) 
 
 # 💻 Tech Stack:
